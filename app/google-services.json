@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300558948818",
+    "firebase_url": "https://project-ideas-58521.firebaseio.com",
+    "project_id": "project-ideas-58521",
+    "storage_bucket": "project-ideas-58521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300558948818:android:84019f15dd0af7ef1a900b",
+        "android_client_info": {
+          "package_name": "com.daffa.android_firebase_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300558948818-mqc3ddf22uugutj3c4lfcn1vj712u9au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq2iaY17aXHS-cIhs4s5qXztLwY_lgTyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300558948818-mqc3ddf22uugutj3c4lfcn1vj712u9au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
